@@ -1,0 +1,3 @@
+C:\Users\kirk\Desktop\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\x86\Debug\AnimoNexContent.contentprojResolveAssemblyReference.cache
+C:\Users\kirk\Desktop\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNex.xml
+C:\Users\kirk\Desktop\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNexMusic.xml

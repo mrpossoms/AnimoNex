@@ -1,0 +1,4 @@
+I:\Animo Nex\AnimoNex 06.14.09\AnimoNex\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+I:\Animo Nex\AnimoNex 06.14.09\AnimoNex\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.16.09\AnimoNex\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.16.09\AnimoNex\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

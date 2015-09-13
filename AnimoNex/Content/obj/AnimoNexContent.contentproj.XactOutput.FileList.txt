@@ -1,0 +1,6 @@
+Content\sound\music\AnimoNex.xgs
+Content\sound\music\Wave Bank.xwb
+Content\sound\music\Sound Bank.xsb
+Content\sound\music\AnimoNexMusic.xgs
+Content\sound\music\musicWaves.xwb
+Content\sound\music\musicSoundBank.xsb

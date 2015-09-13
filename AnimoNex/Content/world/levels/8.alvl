@@ -1,0 +1,576 @@
+Jefferson St. S
+83
+street_inter
+graphics\textures\props\street_intersection
+754
+345
+0
+0
+street_normal
+graphics\textures\props\street
+-74
+426
+0
+0
+grass
+graphics\textures\props\grass
+259
+10
+0
+0
+grass
+graphics\textures\props\grass
+260
+41
+0
+0
+grass
+graphics\textures\props\grass
+260
+64
+0
+0
+grass
+graphics\textures\props\grass
+243
+79
+0
+0
+grass
+graphics\textures\props\grass
+255
+93
+0
+0
+grass
+graphics\textures\props\grass
+262
+107
+0
+0
+grass
+graphics\textures\props\grass
+248
+122
+0
+0
+grass
+graphics\textures\props\grass
+246
+136
+0
+0
+bigBuildingGreen
+graphics\textures\props\green building
+-513
+-445
+0
+0
+grass
+graphics\textures\props\grass
+255
+137
+0
+0
+doorDouble
+graphics\textures\props\double doors
+-104
+34
+0
+0
+grass
+graphics\textures\props\grass
+-468
+136
+0
+0
+ManHoleCover
+graphics\textures\props\manhole_cover
+764
+436
+0
+0
+car1
+graphics\textures\props\Car_Hatchback
+1222
+309
+0
+0
+car0
+graphics\textures\props\Car_Escort
+1203
+466
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+493
+235
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+351
+234
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+308
+231
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+390
+221
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+417
+243
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+451
+241
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+373
+242
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+324
+254
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+274
+254
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+228
+293
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+213
+299
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+249
+298
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+267
+294
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+347
+268
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+393
+229
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+438
+196
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+434
+180
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+398
+183
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+371
+198
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+322
+208
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+322
+205
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+328
+203
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+226
+214
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+216
+214
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+529
+281
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+582
+277
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+368
+255
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+279
+226
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+259
+204
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+199
+232
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+148
+240
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+116
+252
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+110
+244
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+223
+244
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+275
+260
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+271
+261
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+173
+229
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+168
+196
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+231
+186
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+297
+188
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+350
+187
+0
+0
+paperPile
+graphics\textures\props\cardboard heap
+386
+185
+0
+0
+NewsPapers
+graphics\textures\props\news
+413
+212
+0
+0
+NewsPapers
+graphics\textures\props\news
+304
+237
+0
+0
+NewsPapers
+graphics\textures\props\news
+213
+199
+0
+0
+NewsPapers
+graphics\textures\props\news
+284
+200
+0
+0
+NewsPapers
+graphics\textures\props\news
+498
+266
+0
+0
+NewsPapers
+graphics\textures\props\news
+178
+272
+0
+0
+mailBox
+graphics\textures\props\mail
+286
+119
+0
+0
+trashcan
+graphics\textures\props\trash bad
+371
+155
+0
+0
+trashcan
+graphics\textures\props\trash bad
+316
+169
+0
+0
+trashcan
+graphics\textures\props\trash bad
+379
+182
+0
+0
+plasticBags
+graphics\textures\props\bags
+420
+208
+0
+0
+cardboardBox
+graphics\textures\props\cardboard box
+319
+196
+0
+0
+trafficConeSmall
+graphics\textures\props\small_cone
+998
+606
+0
+0
+trafficConeSmall
+graphics\textures\props\small_cone
+904
+436
+0
+0
+trafficConeSmall
+graphics\textures\props\small_cone
+944
+241
+0
+0
+xnaTag
+graphics\textures\props\tag_xna
+260
+-16
+0
+0
+plasticBags
+graphics\textures\props\bags
+57
+175
+0
+0
+plasticBags
+graphics\textures\props\bags
+-282
+168
+0
+0
+plasticBags
+graphics\textures\props\bags
+-325
+251
+0
+0
+plasticBags
+graphics\textures\props\bags
+712
+468
+0
+0
+trafficConeBig
+graphics\textures\props\large_Cone copy
+935
+729
+0
+0
+trafficConeBig
+graphics\textures\props\large_Cone copy
+825
+725
+0
+0
+trafficConeBig
+graphics\textures\props\large_Cone copy
+710
+725
+0
+0
+trafficConeBig
+graphics\textures\props\large_Cone copy
+602
+724
+0
+0
+6
+
+floor
+-586
+171
+1000
+251
+1010
+676
+-550
+639
+
+
+
+floor
+464
+35
+1020
+45
+1068
+249
+544
+215
+
+
+
+floor
+443
+161
+947
+171
+961
+311
+538
+263
+
+
+portalN
+portal
+453
+34
+1023
+71
+1069
+105
+500
+64
+portalS
+Jefferson St. N
+portalW
+portal
+-586
+169
+-528
+170
+-506
+681
+-565
+660
+portalE
+Center St. S
+100jefferson0
+portal
+-270
+141
+47
+142
+54
+183
+-259
+167
+door0
+100 Jefferson
+2
+2
+False

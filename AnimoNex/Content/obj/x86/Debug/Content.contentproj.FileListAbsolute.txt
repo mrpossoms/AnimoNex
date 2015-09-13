@@ -1,0 +1,72 @@
+C:\Documents and Settings\kirk\My Documents\Visual Studio 2008\Projects\AnimoNex\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Animo Nex\AnimoNex 06.14.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kirk\Desktop\AnimoNex 06.15.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AnimoNex 06.15.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.16.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.17.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.18.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\Copy of AnimoNex 06.18.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\Copy of AnimoNex 06.18.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kirk\Desktop\AnimoNex 06.19.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kirk\Desktop\AnimoNex 06.20.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 06.22.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\latest\AnimoNex 06.22.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\latest\AnimoNex 06.23.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\latest\AnimoNex 06.23.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.25.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.26.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 06.26.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.27.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.30.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\AnimoNex 06.30.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.31.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kirk\Desktop\AnimoNex 07.02.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kirk\Desktop\Animo 7.2.09\AnimoNex 07.02.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kirk\Desktop\AnimoNex 07.04.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Projects\animo 7.4.09\AnimoNex 07.04.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\animo 7.4.09\AnimoNex 07.04.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\Copy of AnimoNex 07.07.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 07.08.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 07.09.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\AnimoNex 07.09.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 07.09.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 07.15.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 07.17.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 07.17.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 07.18.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 07.18.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 07.22.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 07.22.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 07.23.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 07.24.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 07.27.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 07.27.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 07.28.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 07.28.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 07.29.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 07.30.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 07.30.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 07.31.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.1.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.1.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.1.09\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.2.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.2.09\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.3.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.3.09\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.3.09\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.3.09\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNexMusic.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.3.09\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.3.09\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNexMusic.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNexMusic.xml
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNexMusic.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNexMusic.xml
+C:\Users\Kirk\Desktop\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kirk\Desktop\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNex.xml
+C:\Users\Kirk\Desktop\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\x86\Debug\sound\music\AnimoNexMusic.xml

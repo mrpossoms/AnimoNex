@@ -1,0 +1,27 @@
+I:\Animo Nex\AnimoNex 06.14.09\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.15.09\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kirk\Desktop\AnimoNex 06.16.09\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 07.31.09\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.1.09\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.1.09\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.1.09\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.2.09\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.2.09\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.3.09\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.3.09\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.3.09\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNexMusic.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.3.09\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.3.09\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.3.09\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNexMusic.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNexMusic.xml
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\Administrator\Desktop\AnimoNex 08.8.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNexMusic.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNex.xml
+C:\Documents and Settings\All Users\Documents\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNexMusic.xml
+C:\Users\Kirk\Desktop\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Kirk\Desktop\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNex.xml
+C:\Users\Kirk\Desktop\AnimoNex 08.15.09(ptc)\AnimoNex\Content\obj\Xbox 360\Debug\sound\music\AnimoNexMusic.xml
